@@ -42,11 +42,11 @@
        "&trans",  "&kp Z",  "&kp X",  "&kp C",  "&kp D",  "&kp V",                               "&trans",                     "&trans",                      "&kp K",  "&kp H", "&kp COMMA", "&kp PERIOD",     "&kp SLASH", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans",    "&trans",     "&trans",        "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                              "&mo 4", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",         "&trans",         "&trans",           "&trans",             "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",      "&trans",            "&trans",         "&trans",          "&trans", "&trans",
+       "&trans",          "&kp Q",          "&kp W",            "&kp F",              "&kp P",  "&kp B",            "&mo 0",                                                              "&mo 4",  "&kp J",       "&kp L",             "&kp U",          "&kp Y",   "&kp SEMICOLON", "&trans",
+       "&trans", "&mt LEFT_GUI A", "&mt LEFT_ALT R", "&mt LEFT_SHIFT S", "&mt LEFT_CONTROL T",  "&kp G",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&kp M", "&mt RCTRL N", "&mt RIGHT_SHIFT E", "&mt LEFT_ALT I", "&mt RIGHT_GUI O", "&trans",
+       "&trans",          "&kp Z",          "&kp X",            "&kp C",              "&kp D",  "&kp V",                               "&trans",                     "&trans",                      "&kp K",       "&kp H",         "&kp COMMA",     "&kp PERIOD",       "&kp SLASH", "&trans",
+       "&trans",         "&trans",         "&trans",           "&trans",             "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                "&trans",            "&trans",         "&trans",          "&trans", "&trans"
     ]
   ]
 }
