@@ -80,11 +80,11 @@
 
         layer_C_DH_BASE {
             bindings = <
-  &none   &none  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans     &trans      &trans         &trans  &trans
- &trans   &kp Q   &kp W   &kp F   &kp P   &kp B             &to 0                                                  &trans   &kp J   &kp L      &kp U       &kp Y  &kp SEMICOLON  &trans
- &trans   &kp A   &kp R   &kp S   &kp T   &kp G            &trans  &trans  &trans                  &trans  &trans   &to 5   &kp M   &kp N      &kp E       &kp I          &kp O  &trans
- &trans   &kp Z   &kp X   &kp C   &kp D   &kp V                            &trans                  &trans                   &kp K   &kp H  &kp COMMA  &kp PERIOD      &kp SLASH  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans     &trans      &trans         &trans  &trans
+      &kp EQUAL     &kp N1    &kp N2          &kp N3           &kp N4  &kp N5             &none                                                   &none  &kp N6        &kp N7          &kp N8            &kp N9             &kp N0        &kp MINUS
+        &kp TAB      &kp Q     &kp W           &kp F            &kp P   &kp B             &to 0                                                   &none   &kp J         &kp L           &kp U             &kp Y      &kp SEMICOLON    &kp BACKSLASH
+        &kp ESC      &kp A     &kp R           &kp S            &kp T   &kp G             &none  &trans  &trans                  &trans  &trans   &to 5   &kp M         &kp N           &kp E             &kp I              &kp O   &kp APOSTROPHE
+ &kp LEFT_SHIFT      &kp Z     &kp X           &kp C            &kp D   &kp V                            &trans                  &trans                   &kp K         &kp H       &kp COMMA        &kp PERIOD          &kp SLASH  &kp RIGHT_SHIFT
+          &none  &kp GRAVE  &kp CAPS  &kp LEFT_ARROW  &kp RIGHT_ARROW                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp UP_ARROW  &kp DOWN_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET            &none
             >;
         };
 
